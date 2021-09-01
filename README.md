@@ -1,4 +1,13 @@
-### Hi there 👋
+### 
+
+# Welcome to my profile
+
+If you want to contact me, you can use my mail or discord:
+- Discrod: baZap#1448
+- Mail: basarus51@gmail.com
+
+You can view my portfolio and other works on my youtube channel:
+https://www.youtube.com/c/baZap/featured
 
 <!--
 **Basarus/Basarus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
