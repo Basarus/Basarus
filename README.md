@@ -2,9 +2,22 @@
 
 # Welcome to my profile
 
-If you want to contact me, you can use my mail or discord:
-- Discrod: baZap#1448
-- Mail: basarus51@gmail.com
+About me:
+
+My name is Oleg, I am 23 years old. I live in Russia, at the moment I am a student.
+
+In 2014, he began actively studying programming (HTML + CSS + Java). This was due to the banal desire to create your own server for the game Minecraft (And I learned the markup language for the company, because I was interested in the layout of sites).
+
+In 2015 he entered the Moscow State University
+
+In 2016, I was actively studying C# to create plugins for the Rust game servers. In the same year, he received an invitation and transferred to the Academy of the FSB of Russia.
+
+In 2017, I started studying JavaScript and NodeJS. After that, I started studying React.js and Vue.
+
+From 2017 to the present time, I have been developing servers on the GTA 5 platform. I provide advice and support to various servers. I have my own YouTube channel, where I post lessons and scripts on the subject of GTA 5 RP servers (and not only). In my free time, I am engaged in self-development, attending various courses and developing applications that are interesting to me.
+
+
+
 
 # My stack:
 
@@ -31,7 +44,16 @@ If you want to contact me, you can use my mail or discord:
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=MySQL.js&logoColor=white)](https://rust.facepunch.com)
 [![Minecraft](https://img.shields.io/badge/Minecraft-000000?style=for-the-badge&logo=Minecraft&logoColor=white)](https://www.minecraft.net/en-us?/)
 
+# Social networks
+
+- Discrod: baZap#1448
+- Mail: basarus51@gmail.com
+- Youtube: https://www.youtube.com/c/baZap/featured
+- VK: https://vk.com/basarus51
+
+# Portfolio
+(Filled in)
+
+### [Portfolio GTA 5 ALT:V](https://www.youtube.com/watch?v=6p6ZpqyNuwU&list=PLnwp302o1qq_Z7QJfyP11F1sLOXfm7-4u "Portfolio GTA 5 ALT:V")
 
 
-You can view my portfolio and other works on my youtube channel:
-https://www.youtube.com/c/baZap/featured
