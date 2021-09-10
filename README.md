@@ -25,7 +25,7 @@ If you want to contact me, you can use my mail or discord:
 [![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL.js&logoColor=white)](https://www.mysql.com)
 [![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=MariaDB.js&logoColor=white)](https://mariadb.org)
 
-[![ALT:V](https://img.shields.io/badge/ALTV-000000?style=for-the-badge&logo=MongoDB.js&logoColor=white)](https://altv.mp/#/)
+[![ALT:V](https://img.shields.io/badge/ALT:V-000000?style=for-the-badge&logo=MongoDB.js&logoColor=white)](https://altv.mp/#/)
 [![Rage:MP](https://img.shields.io/badge/Rage:MP-000000?style=for-the-badge&logo=Firebase.js&logoColor=white)](https://rage.mp)
 [![Five:M](https://img.shields.io/badge/Five:M-000000?style=for-the-badge&logo=MySQL.js&logoColor=white)](https://fivem.net)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=MySQL.js&logoColor=white)](https://rust.facepunch.com)
