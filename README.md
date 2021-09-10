@@ -44,7 +44,7 @@ My name is Oleg, I am 23 years old. I live in Russia, at the moment I am a stude
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=MySQL.js&logoColor=white)](https://rust.facepunch.com)
 [![Minecraft](https://img.shields.io/badge/Minecraft-000000?style=for-the-badge&logo=Minecraft&logoColor=white)](https://www.minecraft.net/en-us?/)
 
-# Social networks
+## Social networks
 
 - Discrod: baZap#1448
 - Mail: basarus51@gmail.com
