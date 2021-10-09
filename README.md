@@ -45,7 +45,8 @@ My name is Oleg, I am 23 years old. I live in Russia, at the moment I am a stude
 [![Minecraft](https://img.shields.io/badge/Minecraft-000000?style=for-the-badge&logo=Minecraft&logoColor=white)](https://www.minecraft.net/en-us?/)
 
 ## MyStats
-
+![Basar stats](https://github-readme-stats.vercel.app/api?username=Basarus&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basarus)](https://github.com/Basarus/github-readme-stats)
 
 
 ## Social networks
