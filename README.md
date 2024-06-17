@@ -50,10 +50,9 @@ My name is Oleg, I am 23 years old. I live in Russia, at the moment I am a stude
 
 ## Social networks
 
-- Discrod: baZap#1448
+- Discrod: bazaq
 - Mail: basarus51@gmail.com
 - Youtube: https://www.youtube.com/c/baZap/featured
-- VK: https://vk.com/basarus51
 
 ## Portfolio
 (Filled in)
