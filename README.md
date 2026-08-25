@@ -14,7 +14,7 @@ My name is Oleg, I am 23 years old. I live in Russia, at the moment I am a stude
 
 - In 2017, I started studying JavaScript and NodeJS. After that, I started studying React.js and Vue.
 
-- From 2017 to the present time, I have been developing servers on the GTA 5 platform. I provide advice and support to various servers. I have my own YouTube channel, where I post lessons and scripts on the subject of GTA 5 RP servers (and not only). In my free time, I am engaged in self-development, attending various courses and developing applications that are interesting to me.
+- From 2017 to the present time, I have been developing servers on the GTA 5 platform. I provide advice and support to various servers. I have my own YouTube channel, where I post lessons and scripts on the subject of GTA 5 RP servers (and not only). In my free time, I am engaged in self-development, attending various courses and developing applications that are interesting to me. 
 
 
 
