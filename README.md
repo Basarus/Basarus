@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="./assets/cuckoder-header.svg" width="100%" alt="Cuckoder — Technical Lead, Software Architect, Builder" />
-</div>
+![Uploading image.png…]()
+
 
 <div align="center">
   <a href="https://t.me/cuckoders"><img src="https://img.shields.io/badge/Telegram-Cuckoders-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Cuckoders" /></a>
