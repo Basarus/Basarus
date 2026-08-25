@@ -1,5 +1,6 @@
+<div align="center">
 ![Uploading image.png…]()
-
+</div>
 
 <div align="center">
   <a href="https://t.me/cuckoders"><img src="https://img.shields.io/badge/Telegram-Cuckoders-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Cuckoders" /></a>
