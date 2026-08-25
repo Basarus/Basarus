@@ -1,62 +1,254 @@
-### 
+<div align="center">
+  <img src="./assets/cuckoder-header.svg" width="100%" alt="Cuckoder — Technical Lead, Software Architect, Builder" />
+</div>
 
-# Welcome to my profile
+<div align="center">
+  <a href="https://t.me/cuckoders"><img src="https://img.shields.io/badge/Telegram-Cuckoders-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Cuckoders" /></a>
+  <a href="https://www.youtube.com/@cuckoder"><img src="https://img.shields.io/badge/YouTube-Cuckoder-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Cuckoder" /></a>
+  <a href="https://github.com/Basarus?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
+</div>
 
-## About me:
+## Привет, я Олег 👋
 
-My name is Oleg, I am 23 years old. I live in Russia, at the moment I am a student.
+Я — **технический руководитель, software architect и разработчик**. Проектирую веб-системы, AI-инструменты и игровые продукты: от идеи и технической стратегии до работающего решения.
 
-- In 2014, he began actively studying programming (HTML + CSS + Java). This was due to the banal desire to create your own server for the game Minecraft (And I learned the markup language for the company, because I was interested in the layout of sites).
+Моя сильная сторона — **архитектура**. Мне интересно не только написать код, но и понять, где проходят границы системы, как она будет развиваться, что произойдёт под нагрузкой и кто потом сможет её поддерживать.
 
-- In 2015 he entered the Moscow State University
+```ts
+const cuckoder = {
+  roles: ["Technical Lead", "Software Architect", "Mentor"],
+  builds: ["web systems", "AI tools", "game worlds"],
+  strongestSkill: "architecture",
+  leadershipStyle: ["calm", "responsible"],
+  aiPolicy: "power tool, not magic",
+} as const;
+```
 
-- In 2016, I was actively studying C# to create plugins for the Rust game servers. In the same year, he received an invitation and transferred to the Academy of the FSB of Russia.
+> **AI усиливает разработчика, но остаётся инструментом, а не панацеей.**  
+> Архитектуру, решения и ответственность нельзя делегировать автокомплиту.
 
-- In 2017, I started studying JavaScript and NodeJS. After that, I started studying React.js and Vue.
+## Что я умею превращать в систему
 
-- From 2017 to the present time, I have been developing servers on the GTA 5 platform. I provide advice and support to various servers. I have my own YouTube channel, where I post lessons and scripts on the subject of GTA 5 RP servers (and not only). In my free time, I am engaged in self-development, attending various courses and developing applications that are interesting to me. 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ Архитектура</h3>
+      Декомпозирую сложные продукты, проектирую границы сервисов, API, модели данных и интеграции. Ищу не самую модную схему, а решение, которое соответствует задаче.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧭 Техническое руководство</h3>
+      Беру полный цикл: техническую стратегию, планирование, качество, развитие команды, delivery и ответственность за итоговое решение.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧪 Создание продуктов</h3>
+      Собираю веб-приложения, desktop-инструменты, игровые платформы и AI-прототипы. Люблю момент, когда идея перестаёт быть документом и начинает работать.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍🏫 Наставничество</h3>
+      Объясняю разработку от первых шагов до проектирования уникальных систем. Обучал лично, внутри команд и через YouTube.
+    </td>
+  </tr>
+</table>
 
+## Моя зона интересов
 
+```mermaid
+flowchart LR
+    A[💡 Идея] --> B[🏛️ Архитектура]
+    B --> C[🧩 Backend]
+    B --> D[🖥️ Frontend]
+    B --> E[🔐 Security & QA]
+    C --> F[🚀 Работающий продукт]
+    D --> F
+    E --> F
+    F --> G[📈 Развитие системы]
 
-## My stack:
+    AI[🤖 AI-инструменты] -. ускоряют .-> B
+    AI -. помогают .-> C
+    HUMAN[🧠 Инженерное мышление] ==> B
+    HUMAN ==> F
+```
 
-[![Typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.javascript.com)
-[![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/ru/)
-[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
+<div align="center">
+  <sub>AI помогает двигаться быстрее. Направление всё ещё выбирает человек.</sub>
+</div>
 
-[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=white)](http://www.css3.com)
-[![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
-[![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org)
-[![MobX](https://img.shields.io/badge/MobX-000000?style=for-the-badge&logo=MobX&logoColor=white)](https://mobx.js.org/README.html)
-[![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=Vue.js&logoColor=white)](https://ru.vuejs.org)
-[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com/ru/)
+## Стек и инженерный инструментарий
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com)
-[![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com)
-[![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com)
-[![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=MariaDB&logoColor=white)](https://mariadb.org)
+### Backend & Architecture
 
-[![ALT:V](https://img.shields.io/badge/ALT:V-000000?style=for-the-badge&logo=MongoDB.js&logoColor=white)](https://altv.mp/#/)
-[![Rage:MP](https://img.shields.io/badge/Rage:MP-000000?style=for-the-badge&logo=Firebase.js&logoColor=white)](https://rage.mp)
-[![Five:M](https://img.shields.io/badge/Five:M-000000?style=for-the-badge&logo=MySQL.js&logoColor=white)](https://fivem.net)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=MySQL.js&logoColor=white)](https://rust.facepunch.com)
-[![Minecraft](https://img.shields.io/badge/Minecraft-000000?style=for-the-badge&logo=Minecraft&logoColor=white)](https://www.minecraft.net/en-us?/)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-## MyStats
-![Basarus GitHub stats](https://github-readme-stats.vercel.app/api?username=Basarus&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basarus)](https://github.com/Basarus/github-readme-stats)
+### Frontend, Mobile & Desktop
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![WinUI 3](https://img.shields.io/badge/WinUI_3-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## Social networks
+### Data, Messaging & Infrastructure
 
-- Discrod: bazaq
-- Mail: basarus51@gmail.com
-- Youtube: https://www.youtube.com/c/baZap/featured
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## Portfolio 
-(Filled in)
+### Quality & Security
 
-### [Portfolio GTA 5 ALT:V](https://www.youtube.com/watch?v=6p6ZpqyNuwU&list=PLnwp302o1qq_Z7QJfyP11F1sLOXfm7-4u "Portfolio GTA 5 ALT:V")
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
+<details>
+  <summary><b>Если коротко: зачем мне столько технологий?</b></summary>
+  <br />
+  Не для коллекции логотипов. Архитектору важно видеть систему целиком: интерфейс, backend, данные, инфраструктуру, безопасность, тестирование и людей, которые будут со всем этим жить.
+</details>
 
+## Что я создаю
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ WorldQuest</h3>
+      Платформа городских квестов с реальной геолокацией, картой, маршрутами, достижениями, игровой экономикой и социальными механиками.
+      <br /><br />
+      <code>TypeScript</code> <code>React</code> <code>NestJS</code> <code>PostgreSQL/PostGIS</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 World Economica</h3>
+      Многопользовательский экономический мир, где игроки работают друг на друга, создают компании, производят ресурсы, торгуют и инвестируют.
+      <br /><br />
+      <code>Java</code> <code>React</code> <code>TypeScript</code> <code>Flutter</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕵️ Truth or Lie</h3>
+      Социальная браузерная игра-детектив: общий город, расследование, свидетели, фракции, ветвящиеся диалоги и эксперименты с LLM.
+      <br /><br />
+      <code>NestJS</code> <code>React</code> <code>WebSocket</code> <code>PostgreSQL</code> <code>LLM</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ JobController</h3>
+      Корпоративный агент безопасной рабочей сессии с desktop-интерфейсом, VPN, Windows-службами, телеметрией и явными границами приватности.
+      <br /><br />
+      <code>C#</code> <code>.NET</code> <code>WinUI 3</code> <code>Windows Services</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥗 ServiceDieta</h3>
+      Сервис подбора продуктов под лечебные диеты с анализом состава, интеграциями, сравнением вариантов и персональными сценариями.
+      <br /><br />
+      <code>NestJS</code> <code>React</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Redis</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 QA & Security Labs</h3>
+      Автотесты веб-приложений: браузерные сценарии, GraphQL-контракты, accessibility, security regression и безопасная работа с тестовыми сессиями.
+      <br /><br />
+      <code>Playwright</code> <code>TypeScript</code> <code>CI</code> <code>OWASP</code>
+    </td>
+  </tr>
+</table>
+
+> Часть проектов живёт в закрытых или локальных репозиториях. Здесь я показываю публичные разработки, эксперименты и технические материалы, которые можно раскрывать без нарушения чужих границ.
+
+<details>
+  <summary><b>Публичные игровые корни: открыть старые alt:V-проекты</b></summary>
+  <br />
+  <a href="https://github.com/Basarus/ALT-V-Crawl"><img src="https://img.shields.io/badge/ALT:V-Crawl-6EA8FE?style=for-the-badge&logo=github&logoColor=white" alt="ALT-V Crawl repository" /></a>
+  <a href="https://github.com/Basarus/-ALT-V-Car-tuning"><img src="https://img.shields.io/badge/ALT:V-Car_Tuning-B67CFF?style=for-the-badge&logo=github&logoColor=white" alt="ALT-V Car Tuning repository" /></a>
+  <a href="https://github.com/Basarus/ALT-V-AuthSystem"><img src="https://img.shields.io/badge/ALT:V-Auth_System-55D6BE?style=for-the-badge&logo=github&logoColor=white" alt="ALT-V Auth System repository" /></a>
+  <a href="https://github.com/Basarus/Firebase-ALT-V"><img src="https://img.shields.io/badge/ALT:V-Firebase_Template-FFCA28?style=for-the-badge&logo=github&logoColor=000000" alt="Firebase ALT-V repository" /></a>
+  <br /><br />
+  С этих ресурсов начался мой публичный GitHub: игровые механики, интерфейсы, авторизация и интеграции для серверов GTA V.
+</details>
+
+## Путь разработчика
+
+```text
+игровые серверы
+      │
+      ├── разработка уникальных механик
+      ├── старшая техническая роль
+      ├── обучение и YouTube
+      │
+      ▼
+fullstack & backend
+      │
+      ├── архитектура веб-систем
+      ├── безопасность и тестирование
+      ├── техническое руководство
+      │
+      ▼
+собственные продукты + AI + игровые миры
+```
+
+Мой путь начался с желания создавать игровые серверы и собственные механики. Затем появились веб-приложения, backend, архитектура, безопасность, управление разработкой и полноценные продуктовые системы.
+
+В роли CTO игрового проекта я отвечал за техническое направление целиком. Сейчас мой основной профессиональный фокус — руководство веб-разработкой и архитектура. Детали текущей работы остаются внутри работы; инженерные принципы и собственные проекты — здесь.
+
+## Образование и развитие
+
+- 🎓 Высшее техническое образование в области аналитических систем безопасности и физических процессов горного и нефтегазового производства.
+- 🧑‍💻 Длительная программа повышения квалификации по fullstack-разработке.
+- ☕ Расширенная программа по Java-разработке.
+- 🔐 Программа по веб-безопасности.
+- 📚 Самостоятельное изучение архитектуры, микросервисов, Kafka, DDD, API, баз данных, тестирования и безопасности.
+
+<details>
+  <summary><b>Мой настоящий dependency manager</b></summary>
+  <br />
+  Книжная полка. Иногда обновляется медленнее npm, зато реже ломает production.
+</details>
+
+## Несколько инженерных убеждений
+
+```diff
++ Архитектура начинается с ограничений, а не с диаграммы.
++ Рабочий продукт важнее демонстрации модного стека.
++ AI ускоряет мышление, если мышление уже запущено.
++ Наставничество делает сильнее и ученика, и наставника.
++ Спокойствие — полезный production-инструмент.
+- «Нейросеть всё сделает сама».
+- «Перепишем на микросервисы — и проблемы исчезнут».
+```
+
+## Cuckoder / Cuckoders
+
+**Cuckoder** — мой авторский образ. **Cuckoders** — сообщество вокруг архитектуры, разработки, AI, игр и создания собственных продуктов.
+
+Я показываю не только итоговый интерфейс, но и то, что обычно остаётся за кадром: выбор границ, компромиссы, ошибки, переделки и инженерные решения.
+
+<div align="center">
+  <a href="https://t.me/cuckoders"><img src="https://img.shields.io/badge/Вступить_в_сообщество-Cuckoders-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Вступить в Telegram-сообщество Cuckoders" /></a>
+  <a href="https://www.youtube.com/@cuckoder"><img src="https://img.shields.io/badge/Смотреть_разработку-Cuckoder-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Смотреть Cuckoder на YouTube" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <samp>idea → architecture → code → product → lessons learned → repeat()</samp>
+</div>
