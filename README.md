@@ -91,13 +91,7 @@ flowchart LR
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-<details>
-  <summary><b>Go в production</b></summary>
-  <br />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  Использовал Go в коммерческой разработке большой системы идентификации данных. Рабочий код не находится в публичном доступе; репозиторий <a href="https://github.com/Basarus/GO-Basic">GO-Basic</a> — только открытый след работы с языком, а не показатель масштаба production-опыта.
-</details>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ### Frontend, Mobile & Desktop
 
